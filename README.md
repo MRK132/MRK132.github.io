@@ -1,8 +1,8 @@
 # AR Wildlife
 
-Scan the QR code with your phone, and a wild duck should appear!
+Scan the QR code with your phone, and a wild duck should appear! No apps required other than a QR reader (or a camera app that reads QR codes), as the app runs through your browser.
 
-![duck](C:\Users\Mark\Downloads\duck.png)
+
 
 Used for Glenamaddy Tidy Towns wildlife and heritage trail initiative.
 
